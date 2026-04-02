@@ -1,0 +1,2 @@
+THEMES:UGC,Testimonial,Product Focus,Problem-Solution,Lifestyle
+HOOKS:Problem First, Benefit First, Curiosity, Fear of Missing Out, Direct Offer

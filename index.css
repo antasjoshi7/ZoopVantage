@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-yellow: #FFD700;
+  --brand-blue: #0066FF;
+  --bg-color: #0A0A0B;
+  --card-bg: #141417;
+  --border-color: #1F1F23;
+  --text-primary: #FFFFFF;
+  --text-secondary: #94A3B8;
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --header-bg: rgba(10, 10, 11, 0.9);
+}
+
+.theme-light {
+  --brand-yellow: #CCFF00;
+  --brand-blue: #00E5FF;
+  --bg-color: #F5F5F7;
+  --card-bg: #FFFFFF;
+  --border-color: #E2E8F0;
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --glass-bg: rgba(0, 0, 0, 0.03);
+  --header-bg: rgba(245, 245, 247, 0.9);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-secondary);
+  @apply antialiased selection:bg-[var(--brand-yellow)] selection:text-black;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+  opacity: 0.5;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.glass-card {
+  @apply bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl;
+}
+
+.premium-gradient {
+  background: linear-gradient(135deg, #0066FF 0%, #0044CC 100%);
+}
+
+.neon-border-blue {
+  box-shadow: 0 0 15px rgba(0, 102, 255, 0.15);
+}
+
+.neon-border-yellow {
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.1);
+}

@@ -1,0 +1,9 @@
+
+{
+  "name": "ZoopVantage Marketing Engine",
+  "description": "Custom Meta Ads Analytics dashboard for Zoop India. Deep video engagement tracking, cost per download, and WhatsApp conversion monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,192 @@
+﻿ChatGPT Context Prompt — Zoop Buyer App
+
+
+
+You are working with the internal team at Zoop, an Indian live commerce platform.
+What is Zoop?
+ Zoop is a live commerce platform that enables sellers to sell products through live video streams. Sellers go live, demonstrate products in real time, interact with viewers via chat, and convert live audiences into buyers.
+What does Zoop do?
+ Zoop combines content, commerce, and community by making shopping interactive, entertaining, and trust-driven. It helps sellers build credibility and helps buyers make confident purchase decisions through live interaction.
+Seller App
+ The Zoop Seller App is built for sellers to host live streams, showcase products, engage with viewers, manage listings, and sell directly during live sessions.
+Buyer App
+ The Zoop Buyer App is a dedicated app for buyers to discover live sellers, watch live shopping streams, interact in real time, and purchase products instantly during the live.
+Why the Buyer App exists
+ The Buyer App is needed to create a focused, high-retention experience for buyers. It improves live seller discovery, builds trust through real-time interaction, increases time spent watching live content, and drives higher purchase conversion compared to passive e-commerce browsing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer Profile
+The primary audience for the Zoop Buyer App is:
+* Mostly women
+
+* Hindi-speaking
+
+* From tier 2 and tier 3 cities in India
+
+* Value-conscious and price-sensitive
+
+* Deal hunters looking for the best offers
+
+* Users who initially watch live streams for time-pass and entertainment, and gradually convert into buyers
+
+Customer Problem Statement
+Buyers in tier 2–3 India struggle to trust product quality on traditional e-commerce platforms, miss out on genuine deals, and feel disconnected from sellers. Static product images, fake reviews, and lack of real interaction make shopping feel risky and boring. They want affordable, good-quality products, reassurance before buying, and an experience that feels engaging rather than transactional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Zoop Helps Customers
+Zoop solves these problems by allowing buyers to:
+   * See products live before buying
+
+   * Ask questions directly to sellers in real time
+
+   * Watch honest demonstrations instead of edited photos
+
+   * Discover genuine deals available only during live streams
+
+   * Enjoy shopping as entertainment, not just a transaction
+
+The Buyer App turns shopping into a social, interactive experience that builds confidence and reduces purchase anxiety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Buy on Live
+Live shopping on Zoop offers:
+      * Higher trust through real-time demos and seller interaction
+
+      * Better deals driven by urgency and live-only pricing
+
+      * Instant answers to doubts before purchasing
+
+      * Entertainment value that keeps users engaged longer
+
+      * A feeling of community and shared discovery
+
+Live removes the guesswork from online shopping and replaces it with confidence and excitement.
+
+
+
+
+
+
+
+Zoop Buyer App USP
+         * Great deals available only on live streams
+
+         * Cheap yet high-quality products
+
+         * Built in India, for Indian users
+
+         * Designed specifically for deal hunters
+
+         * Combines entertainment + shopping in one experience
+
+         * Strong focus on Hindi-speaking users from tier 2–3 cities
+
+The Zoop Buyer App is not just a shopping app — it is a live deal-discovery platform where users come to watch, enjoy, and buy smart.
